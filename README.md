@@ -8,7 +8,11 @@ See it working below.
 
 [![Scrap](http://img.youtube.com/vi/xIlrF2RF_UY/0.jpg)](http://www.youtube.com/watch?v=xIlrF2RF_UY)
 
-# How to use
+## Why
+
+This is a crucial step in searching someone by their profile picture.
+
+## How to use
 
 Go to a Facebook page where there's a list of people with pictures of them. e.g.: someone's friends, group participants...
 
