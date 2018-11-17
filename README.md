@@ -10,4 +10,4 @@ See it working below.
 
 ## How it works
 
-The script rolls the page (friends, groups... page that has a list of people with pictues) until the end, getting the name and image address of everyone; then dumps as JSON file - ```{"name": "picture address"}```.
+The script rolls the page (friends, groups... page that has a list of people with pictures) until the end, getting the name and profile picture address of everyone; then dumps as JSON file - ```{"name": "picture address"}```.
