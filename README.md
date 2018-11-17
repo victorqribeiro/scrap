@@ -10,7 +10,7 @@ See it working below.
 
 # How to use
 
-Go to a Facebook page where there's a list of peopke with pictures of them. e.g.: someone's friends, group participants...
+Go to a Facebook page where there's a list of people with pictures of them. e.g.: someone's friends, group participants...
 
 Open the console. In Chrome is ```ctrl + shift + j```
 
