@@ -22,3 +22,7 @@ Wait. As my internet is kinda slow, I choose a 3 second time interval between ea
 ## How it works
 
 The script rolls the page (friends, groups... page that has a list of people with pictures) until the end, getting the name and profile picture address of everyone; then dumps as JSON file - ```{"name": "picture address"}```.
+
+## About
+
+I have a similar script that scrapes Instagram for pictures, I,ll upload it later.
