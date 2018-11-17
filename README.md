@@ -3,9 +3,6 @@
 
 Scrapping Facebook with JavaScript.
 
-
-See it working below.
-
 [![Scrap](http://img.youtube.com/vi/xIlrF2RF_UY/0.jpg)](http://www.youtube.com/watch?v=xIlrF2RF_UY)
 
 ## Why
