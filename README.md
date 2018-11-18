@@ -5,10 +5,6 @@ Scrapping Facebook with JavaScript.
 
 [![Scrap](http://img.youtube.com/vi/xIlrF2RF_UY/0.jpg)](http://www.youtube.com/watch?v=xIlrF2RF_UY)
 
-## Why
-
-This is a crucial step in searching someone by their profile picture.
-
 ## How to use
 
 Go to a Facebook page where there's a list of people with pictures of them. e.g.: someone's friends, group participants...
@@ -19,10 +15,21 @@ Copy and paste the script, hit enter.
 
 Wait. As my internet is kinda slow, I choose a 3 second time interval between each page scroll, to give it more time to load; but you can change that.
 
-## How it works
+# Search
 
-The script rolls the page (friends, groups... page that has a list of people with pictures) until the end, getting the name and profile picture address of everyone; then dumps as JSON file - ```{"name": "picture address"}```.
+Find people on Facebook by photo.
 
-## About
+*The audio on the video below is in portuguese.*
+[![Search](http://img.youtube.com/vi/VTQhubR5qk0/0.jpg)](http://www.youtube.com/watch?v=VTQhubR5qk0)
 
-I have a similar script that scrapes Instagram for pictures, I,ll upload it later.
+## How to use
+
+Set the varible *imgToFind* with the address of the picture you want to search.
+
+Go to a Facebook page where there's a list of people with pictures of them. e.g.: someone's friends, group participants...
+
+Open the console. In Chrome is ```ctrl + shift + j```
+
+Copy and paste the script, hit enter.
+
+The script will log the probables results.
