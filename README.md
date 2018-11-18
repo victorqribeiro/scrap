@@ -19,8 +19,9 @@ Wait. As my internet is kinda slow, I choose a 3 second time interval between ea
 
 Find people on Facebook by photo.
 
-*The audio on the video below is in portuguese.*
 [![Search](http://img.youtube.com/vi/VTQhubR5qk0/0.jpg)](http://www.youtube.com/watch?v=VTQhubR5qk0)
+
+*The audio on the video below is in portuguese. And it's almost all blurred, cause I dont know if I can show other people on my videos*
 
 ## How to use
 
