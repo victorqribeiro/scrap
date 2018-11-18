@@ -34,3 +34,7 @@ Open the console. In Chrome is ```ctrl + shift + j```
 Copy and paste the script, hit enter.
 
 The script will log the probables results.
+
+# DISCLAIMER
+
+I'm not responsable for anything you do with these scripts.
