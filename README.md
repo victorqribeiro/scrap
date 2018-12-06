@@ -3,7 +3,7 @@
 
 Scrapping Facebook with JavaScript.
 
-[![Scrap](http://img.youtube.com/vi/xIlrF2RF_UY/0.jpg)](http://www.youtube.com/watch?v=xIlrF2RF_UY)
+[![Scrap](http://img.youtube.com/vi/FdpUHNCPKiw/0.jpg)](http://www.youtube.com/watch?v=FdpUHNCPKiw)
 
 ## How to use
 
